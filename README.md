@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/105223230/207928793-81213090-9953-4dc4-9efa-6e78aa6ca2b7.png)
-" style="width:500px;">
+  <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1671126364~exp=1671126964~hmac=c6e7b6ebb24aafce6b4cae4ca8c5b750058a296cb276b523a1ab40324c13e3de" style="width:500px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam Kumar Mahar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
