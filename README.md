@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7e/00/d6/7e00d6514d0556b617001d5fe0a62663.gif" style="width:500px;">
+  <img src="![image](https://user-images.githubusercontent.com/105223230/207928793-81213090-9953-4dc4-9efa-6e78aa6ca2b7.png)
+" style="width:500px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam Kumar Mahar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
