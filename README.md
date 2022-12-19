@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **gkmsaypur99@gmail.com**
 
-- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE VIDEO GAMES AND CODING.**
+- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
+- ⚡ Fun fact **I Like to Make Content on Youtube**
 - 👨‍💻**I'M CURRENT ESPORTS REPRESENTATIVE OF IIT GOA**
 
 <h3 align="left">Connect with me:</h3>
