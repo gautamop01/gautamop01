@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1380&t=st=1679238453~exp=1679239053~hmac=ea3f44bcb6a20874b2e87a92b79c9add22e7c5bfdfddf8105ad532b97b4f2c55" style="width:800px;">
+  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1679287220~exp=1679287820~hmac=e221d30583925350c09de19a094b01a5174b0806cbe93f28e3ca38d7a7e03bb4" style="width:800px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam Kumar Mahar</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
