@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:650px;">
+  <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam Kumar Mahar</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
