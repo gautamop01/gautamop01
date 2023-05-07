@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
 - ✨ **I Like to Make Content on Youtube**
 - 👨‍💻**I'M CURRENT ESPORTS REPRESENTATIVE OF IIT GOA**
+- 👨‍💻**I'M CURRENT CORE MEMBER OF INFOSEC CLUB OF IIT GOA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
