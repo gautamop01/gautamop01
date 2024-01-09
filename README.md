@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/@GAUTAM_OP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@GAUTAM_OP" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gautamkumar99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gautamkumar99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gkmsaypur99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gkmsaypur99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gautamop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gautamop" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gautamop01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gautamop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
