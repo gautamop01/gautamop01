@@ -11,15 +11,14 @@
 
 <img align="right" alt="Coding"  style="border-radius:1rem;width:30vw;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
-
-- 📫 How to reach me **gautam.kumar.21031@iitgoa.ac.in**
-
-- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
-- ✨ **I Like to Make Content on Youtube**
 - 👨‍💻**I'M CURRENT CLUB HEAD OF WEB AND APP DEVELOPMENT CLUB OF IIT GOA**
 - 👨‍💻**I'M CURRENT CORE MEMBER OF INFOSEC CLUB OF IIT GOA**
 - 👨‍💻**I'M CURRENT ESPORTS COMMUNITY HEAD OF IIT GOA**
+- 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
+- 📫 How to reach me **gautam.kumar.21031@iitgoa.ac.in**
+- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
+- ✨ **I Like to Make Content on Youtube**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
