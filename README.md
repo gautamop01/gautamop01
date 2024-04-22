@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
 
-- 📫 How to reach me **gkmsaypur99@gmail.com**
+- 📫 How to reach me **gautam.kumar.21031@iitgoa.ac.in**
 
 - ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
 - ✨ **I Like to Make Content on Youtube**
