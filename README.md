@@ -16,7 +16,7 @@
 - 👨‍💻**I'M CURRENT ESPORTS COMMUNITY HEAD OF IIT GOA**
 - 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
 - 📫 How to reach me **gautam.kumar.21031@iitgoa.ac.in**
-- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES AND CODING.**
+- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES.**
 - ✨ **I Like to Make Content on Youtube**
 
 
