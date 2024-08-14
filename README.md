@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gautam-kumar-mahar-iitgoa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-kumar-mahar-35b103234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautamop01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamop01" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/gautamop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamop" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/gautam_op_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautam_op_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@GAUTAM_OP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@GAUTAM_OP" height="30" width="40" /></a>
