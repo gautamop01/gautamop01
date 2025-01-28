@@ -12,9 +12,7 @@
 <img align="right" alt="Coding"  style="border-radius:1rem;width:30vw;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🎓**Final Year @ IIT Goa CSE '25**
-- 👨‍💻**SDE Intern @ The Social Continent**
-- 👨‍💻**EX-CLUB HEAD OF WEB AND APP DEVELOPMENT CLUB OF IIT GOA**
-- 👨‍💻**EX-ESPORTS COMMUNITY HEAD OF IIT GOA**
+- 👨‍💻**Currently working as an SDE Intern at The Social Continent (8th semester)**
 - 👨‍💻**EX-CLUB HEAD OF WEB AND APP DEVELOPMENT CLUB OF IIT GOA**
 - 👨‍💻**EX-ESPORTS COMMUNITY HEAD OF IIT GOA**
 - 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
