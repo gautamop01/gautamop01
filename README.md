@@ -42,7 +42,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamop01&show_icons=true&locale=en&layout=compact" alt="gautamop01" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamop01&show_icons=true&locale=en" alt="gautamop01" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamop01&show_icons=true&locale=en" alt="gautamop01" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamop01&" alt="gautamop01" /></p>
 
