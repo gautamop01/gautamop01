@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" >
 </p>
-<h1 align="center">Hi 👋, I'm Gautam (gautamop01) 
+<h1 align="center">Hi 👋, I'm Gautam (@gautamop01) 
 </h1>
 <p align="center"> 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙝𝙞𝙣𝙜𝙨 𝙩𝙝𝙖𝙩 𝙢𝙖𝙩𝙩𝙚𝙧 𝙩𝙤 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙 (on the way there) 🚀</p>
 
