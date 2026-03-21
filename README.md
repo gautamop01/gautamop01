@@ -2,8 +2,8 @@
   <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam (gautamop01) 
-<p align="center"> 🚀 ᴄᴜʀʀᴇɴᴛʟʏ ʙᴜɪʟᴅɪɴɢ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴍᴀᴛᴛᴇʀ ᴛᴏ ᴛʜᴇ ᴡᴏʀʟᴅ (on the way there) </p>
 </h1>
+<p align="center"> 🚀 ᴄᴜʀʀᴇɴᴛʟʏ ʙᴜɪʟᴅɪɴɢ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴍᴀᴛᴛᴇʀ ᴛᴏ ᴛʜᴇ ᴡᴏʀʟᴅ (on the way there) </p>
 
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
