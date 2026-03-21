@@ -21,7 +21,7 @@
 - 🏆 **Ex-Head, Web & App Development Club - IIT Goa**
 - 🎮 **Ex-Head, Esports Community - IIT Goa**
 
-- 🚀 **Currently building things that matter to the world**
+- ✨ **Building & sharing content around Vlogs, AI, and Code (#buildinpublic)**
 
 - 📫 **Reach me at:** gautam.kumar.21031@iitgoa.ac.in
 
