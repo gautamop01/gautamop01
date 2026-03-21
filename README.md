@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="height:480px; width:700px;">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" >
 </p>
 <h1 align="center">Hi 👋, I'm Gautam (gautamop01) 
 </h1>
