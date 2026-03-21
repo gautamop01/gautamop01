@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
 </p>
-<h1 align="center">Hi 👋, I'm Gautam </h1>
+<h1 align="center">Hi 👋, I'm Gautam (gautamop01) </h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamop01&label=Profile%20views&color=0e75b6&style=flat" alt="gautamop01" /> </p>
@@ -11,15 +11,20 @@
 
 <img align="right" alt="Coding"  style="border-radius:1rem;width:30vw;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🎓**Final Year @ IIT Goa CSE '25**
-- 👨‍💻**Currently working as an SDE Intern at The Social Continent (8th semester)**
-- 👨‍💻**EX-CLUB HEAD OF WEB AND APP DEVELOPMENT CLUB OF IIT GOA**
-- 👨‍💻**EX-ESPORTS COMMUNITY HEAD OF IIT GOA**
-- 🌱 I’m currently Working on **my skills in DSA and Competitive Programming**
-- 📫 How to reach me **gautam.kumar.21031@iitgoa.ac.in**
-- ⚡ Fun fact **I LOVE TO PLAYING COMPETITIVE GAMES.**
-- ✨ **I Like to Make Content on Youtube**
+- 🎓 **B.Tech CSE ’25 - IIT Goa**
+- 👨‍💻 **FinTech Software Engineer (Data)**
+- 🚀 **Ex-SWE Intern @ The Social Continent**
 
+- 🏆 **Ex-Head, Web & App Development Club - IIT Goa**
+- 🎮 **Ex-Head, Esports Community - IIT Goa**
+
+- 🚀 **Currently building things that matter to the world**
+
+- 📫 **Reach me at:** gautam.kumar.21031@iitgoa.ac.in
+
+- ⚡ **Fun fact:** I love competitive gaming 🎯
+
+- 🚀 **Currently building things that matter to the world** *(on the way there)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
