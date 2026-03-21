@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamop01&label=Profile%20views&color=0e75b6&style=flat" alt="gautamop01" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamop01" alt="gautamop01" /></a> </p> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamop01&layout=compact&theme=tokyonight)
+
 
 <img align="right" alt="Coding"  style="border-radius:1rem;width:30vw;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
@@ -44,7 +43,9 @@
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamop01&show_icons=true&locale=en" alt="gautamop01" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamop01&" alt="gautamop01" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamop01&" alt="gautamop01" /></p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamop01" alt="gautamop01" /></a> </p> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamop01&layout=compact&theme=tokyonight)-->
 
 
 
