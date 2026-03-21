@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="height:480px; width:700px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam (gautamop01) 
 </h1>
