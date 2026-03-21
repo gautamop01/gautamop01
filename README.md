@@ -150,7 +150,7 @@
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
 </a>
 <a href="https://jupyter.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
