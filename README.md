@@ -121,11 +121,12 @@
 
 <!-- Data / ML -->
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
+
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/>
 </a>
@@ -167,8 +168,9 @@
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=airflow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
 </a>
+
 
 <a href="https://redis.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/>
