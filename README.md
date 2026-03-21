@@ -2,6 +2,8 @@
   <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
 </p>
 <h1 align="center">Hi 👋, I'm Gautam (gautamop01) </h1>
+<p align="center"> Currently building things that matter to the world** *(on the way there)* </p>
+
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamop01&label=Profile%20views&color=0e75b6&style=flat" alt="gautamop01" /> </p>
@@ -22,8 +24,6 @@
 - 📫 **Reach me at:** gautam.kumar.21031@iitgoa.ac.in
 
 - ⚡ **Fun fact:** I love competitive gaming 🎯
-
-- 🚀 **Currently building things that matter to the world** *(on the way there)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
