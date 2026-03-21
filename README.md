@@ -158,7 +158,21 @@
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
 </a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
+</a>
 
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=airflow" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/>
+</a>
 </p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamop01&show_icons=true&locale=en&layout=compact" alt="gautamop01" /></p> -->
