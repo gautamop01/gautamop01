@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Gautam (gautamop01) 
 </h1>
-<p align="center"> 🚀 ᴄᴜʀʀᴇɴᴛʟʏ ʙᴜɪʟᴅɪɴɢ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴍᴀᴛᴛᴇʀ ᴛᴏ ᴛʜᴇ ᴡᴏʀʟᴅ (on the way there) </p>
+<p align="center"> 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙝𝙞𝙣𝙜𝙨 𝙩𝙝𝙖𝙩 𝙢𝙖𝙩𝙩𝙚𝙧 𝙩𝙤 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙 (on the way there) 🚀</p>
 
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
