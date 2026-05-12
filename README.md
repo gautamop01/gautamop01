@@ -11,12 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamop01&label=Profile%20views&color=0e75b6&style=flat" alt="gautamop01" /> </p>
 
 
+ <img align="right" alt="Coding"  style="border-radius:1rem;width:350px;" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+ 
 
-<!-- <img align="right" alt="Coding"  style="border-radius:1rem;width:350px;" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
--->
-<p align="center">
-  <img alt="Coding" width="700" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-</p>
 
 - 🎓 **B.Tech CSE ’25 - IIT Goa**
 - 👨‍💻 **FinTech Software Engineer (Data)**
