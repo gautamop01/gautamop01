@@ -38,65 +38,150 @@
 <a href="https://codeforces.com/profile/gautamop01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gautamop" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>&nbsp;
 
-<!-- Cloud -->
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>&nbsp;
 
-<!-- Languages -->
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>&nbsp;
 
-<!-- Web / App -->
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>&nbsp;
 
-<!-- Mobile -->
-<a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>&nbsp;
 
-<!-- Frontend Basics -->
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>&nbsp;
 
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>&nbsp;
 
-<!-- Data / ML -->
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>&nbsp;
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
-<a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a>
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>&nbsp;
 
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>&nbsp;
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>&nbsp;
+
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>&nbsp;
+
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>&nbsp;
+
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>&nbsp;
+
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>&nbsp;
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>&nbsp;
+
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>&nbsp;
+
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>&nbsp;
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>&nbsp;
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>&nbsp;
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>&nbsp;
+
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>&nbsp;
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sklearn" />
+  </a>&nbsp;
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>&nbsp;
+
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>&nbsp;
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>&nbsp;
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>&nbsp;
+
+  <a href="https://postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>&nbsp;
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>&nbsp;
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>&nbsp;
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>&nbsp;
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </a>&nbsp;
+
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
 </p>
+
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamop01&show_icons=true&locale=en&layout=compact" alt="gautamop01" />
