@@ -30,16 +30,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
 
 <a href="https://www.linkedin.com/in/gautamop01/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamop01" height="30" width="40" />
 </a>&nbsp;
-
-<!--
-<a href="https://fb.com/gautamop" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamop" height="30" width="40" />
-</a>&nbsp;
--->
 
 <a href="https://www.instagram.com/gautamop01x/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamop01x" height="30" width="40" />
