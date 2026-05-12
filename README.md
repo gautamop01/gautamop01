@@ -12,7 +12,7 @@
 
 
 
-<img align="right" alt="Coding"  style="border-radius:1rem;width:30vw;" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="Coding"  style="border-radius:1rem;width:350px;" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🎓 **B.Tech CSE ’25 - IIT Goa**
 - 👨‍💻 **FinTech Software Engineer (Data)**
