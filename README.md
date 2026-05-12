@@ -28,16 +28,40 @@
 - ⚡ **Fun fact:** I love competitive gaming 🎯
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gautamop01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamop01" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/gautamop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamop" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/gautamop01x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamop01x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@IITIAN_GAUTAM_OP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@IITIAN_GAUTAM_OP" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gautamkumar99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gautamkumar99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gkmsaypur99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gkmsaypur99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gautamop01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gautamop" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gautamop01/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamop01" height="30" width="40" />
+</a>&nbsp;
+
+<!--
+<a href="https://fb.com/gautamop" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamop" height="30" width="40" />
+</a>&nbsp;
+-->
+
+<a href="https://www.instagram.com/gautamop01x/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamop01x" height="30" width="40" />
+</a>&nbsp;
+
+<a href="https://www.youtube.com/@IITIAN_GAUTAM_OP" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@IITIAN_GAUTAM_OP" height="30" width="40" />
+</a>&nbsp;
+
+<a href="https://www.codechef.com/users/gautamkumar99" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gautamkumar99" height="30" width="40" />
+</a>&nbsp;
+
+<a href="https://www.hackerrank.com/gkmsaypur99" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gkmsaypur99" height="30" width="40" />
+</a>&nbsp;
+
+<a href="https://codeforces.com/profile/gautamop01" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gautamop" height="30" width="40" />
+</a>
+
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -181,7 +205,6 @@
 </p>
 
 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamop01&show_icons=true&locale=en&layout=compact" alt="gautamop01" /></p> 
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamop01&show_icons=true&locale=en" alt="gautamop01" /></p> -->
 
